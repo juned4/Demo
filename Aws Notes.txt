@@ -1,1 +1,16 @@
 module 1: notes for cloud compputing
+
+hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+
+git colne
+git pull
+git config --global user.name"  "
+git config --global user.email"  "
+git status
+
+
+git add filename
+git add details txt
+git add -A
+git commit -m"msg"  --> to save the edidted file
+git push --> update the reomte repository
